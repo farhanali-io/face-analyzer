@@ -1,0 +1,10 @@
+{
+  "name": "Tool Genie — Full Face Analyzer",
+  "description": "Comprehensive AI Full Face Analyzer measuring attractiveness score, facial symmetry, golden ratio adherence, jawline angle, cheekbone prominence, canthal tilt, and biological age.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
